@@ -1,2 +1,2 @@
-# codify.py
-FTPcracker
+# ftpcracker.py
+Password cracker
